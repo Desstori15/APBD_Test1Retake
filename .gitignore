@@ -1,0 +1,29 @@
+# Build artifacts
+bin/
+obj/
+out/
+
+# IDEs
+.vscode/
+.idea/
+
+# Rider-specific
+*.sln.iml
+.idea/
+
+# System
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Database
+*.mdf
+*.ldf
+*.db
+
+# Others
+*.user
+*.suo
+*.vs/
